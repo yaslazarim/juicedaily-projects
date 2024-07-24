@@ -1,17 +1,38 @@
 .main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #fff;
     width: 100%;
     height: 90px;
 }
 
-.main-header .navigation{
+.main-header .main-action{
     font-family: "Poppins";
-    color: #000;
     text-decoration: none;
 }
 
-.main-header .navigation.-profile{
+.main-header .logoContainer{
+    display: flex;
+    align-items: center;
+    margin-left: 90px;
+}
+
+.logoContainer img{
+    margin-right: 10px;
+}
+
+
+.main-action.-profile{
     color: #11BCC7;
     font-weight: 700;
-    margin-left: 90px;
+}
+
+.main-action.-blog{
+    color: #000;
+}
+
+.blogButtons{
+    display: flex;
+    gap: 20px;
 }
