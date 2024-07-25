@@ -1,0 +1,21 @@
+.newRecipeButton{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: "Poppins";
+    background-color: rgba(78, 154, 169, 0.3);
+    width: 406px;
+    height: 46px;
+    color: #4E9AA9;
+}
+
+.newRecipeButton .InnerSquare{
+    background-color: #fff;
+    padding: 5px 16px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 600;
+}
+.newRecipeButton .PhraseButton{
+    font-weight: 500;
+}
