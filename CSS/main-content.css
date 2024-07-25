@@ -1,0 +1,6 @@
+.main-content{
+    background-image: url("../assets/img/main-img.png");
+    height: calc(100vh - 90px);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
