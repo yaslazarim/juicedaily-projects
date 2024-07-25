@@ -1,6 +1,27 @@
 .main-content{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
     background-image: url("../assets/img/main-img.png");
     height: calc(100vh - 90px);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.main-content .content-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-right: 15%;
+    
+}
+
+.main-content .page-title{
+    font-size: 85px;
+    font-weight: 600;
+    line-height: 100px;
+}
+
+.main-content .info-text{
+    font-size: 16px;
 }

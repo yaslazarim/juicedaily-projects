@@ -2,11 +2,15 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    font-family: "Poppins";
     background-color: rgba(78, 154, 169, 0.3);
     width: 406px;
     height: 46px;
     color: #4E9AA9;
+    transition: backgorund-color 0.3s;
+}
+
+.newRecipeButton:hover{
+    background-color: #a5d8e2;
 }
 
 .newRecipeButton .InnerSquare{
