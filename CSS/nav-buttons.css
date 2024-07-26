@@ -1,0 +1,14 @@
+.nav-buttons{
+    display: flex;
+    gap: 20px;
+    position: relative;
+}
+
+.nav-buttons .main-action.-blog{
+    color: #000;
+}
+
+.active{
+    border-bottom: 1px solid #000;
+    margin-top: -1px;
+}

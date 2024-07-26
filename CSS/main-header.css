@@ -21,17 +21,7 @@
     margin-right: 10px;
 }
 
-
 .main-action.-profile{
     color: #11BCC7;
     font-weight: 700;
-}
-
-.main-action.-blog{
-    color: #000;
-}
-
-.blogButtons{
-    display: flex;
-    gap: 20px;
 }
