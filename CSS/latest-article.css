@@ -4,9 +4,10 @@
 }
 
 .latest-article:hover{
-    background-color: rgba(78, 154, 169, 0.1)
+    background-color: rgba(78, 154, 169, 0.1);
+    border: 1px solid #4E9AA97F;
+    margin: -1px;
 }
-
 
 .article-details{
     display: flex;
