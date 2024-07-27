@@ -1,0 +1,15 @@
+.latest{
+    display: flex;
+}
+
+.latest .article-info.-read-time{
+    color: #121212;
+    opacity: 0.5;
+    font-size: 13px;
+}
+
+.latest .article-info.-fruit-name{
+    color: #F5556E;
+    font-size: 13px;
+    font-weight: 500;
+}
