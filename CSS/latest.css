@@ -15,27 +15,3 @@
 .latest-title{
     font-size: 24px;
 }
-
-.article-details{
-    display: flex;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    gap: 3px;
-}
-
-.article-info.-read-time{
-    color: #121212;
-    opacity: 0.5;
-    font-size: 13px;
-}
-
-.article-info.-fruit-name{
-    color: #F5556E;
-    font-size: 13px;
-    font-weight: 500;
-}
-
-.article-info.-description{
-    color: #000;
-
-}
