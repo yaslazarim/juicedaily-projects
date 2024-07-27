@@ -1,3 +1,13 @@
+.latest-article{
+    padding: 8px;
+    transition: background-color 0.3s; 
+}
+
+.latest-article:hover{
+    background-color: rgba(78, 154, 169, 0.1)
+}
+
+
 .article-details{
     display: flex;
     margin-top: 5px;
