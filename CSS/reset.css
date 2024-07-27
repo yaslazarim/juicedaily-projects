@@ -2,7 +2,8 @@ body{
     font-family: "Poppins", sans-serif;
 }
 
-body, h1, h2, h3, figure, input, p{
+body, h1, h2, h3, figure, input, p, a{
+    text-decoration: none;
     margin: 0;
     padding: 0;
 }

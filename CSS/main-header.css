@@ -7,10 +7,6 @@
     height: 90px;
 }
 
-.main-header .main-action{
-    text-decoration: none;
-}
-
 .main-header .logoContainer{
     display: flex;
     align-items: center;
